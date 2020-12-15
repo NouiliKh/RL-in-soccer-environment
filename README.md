@@ -61,4 +61,3 @@ In order to test the agent's performance run:
 ![alt text](./jpgs/Soccergame2.jpg)
 ![alt text](./jpgs/Soccergame3.jpg)
 ![alt text](./jpgs/Soccergame4.jpg)
-![alt text](./jpgs/Soccergame5.jpg)
